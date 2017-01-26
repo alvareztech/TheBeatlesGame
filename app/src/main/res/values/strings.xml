@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheBeatlesGame</string>
+    <string name="credits">Credits</string>
+    <string name="credits_content">More information in: ALVAREZ.tech</string>
+    <string name="game_over">Game Over</string>
+    <string name="movements">Movements</string>
+</resources>
